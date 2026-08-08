@@ -1,7 +1,7 @@
 # go-lang-
 
 
-`  print("hello world ")  `
+`  println("hello world ")  `
 
 
 
